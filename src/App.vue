@@ -49,6 +49,8 @@ body {
     border: none;
     outline: none;
     color: inherit;
+    transition: .3s;
+    cursor: pointer;
   }
   img {
     max-width: 100%;

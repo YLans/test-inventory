@@ -14,7 +14,6 @@ import closeIconUrl from '@/assets/footer-close.svg';
 export default {
   name: 'InventoryFooter',
   setup() {
-    console.log(closeIconUrl);
     return {
       skeletonUrl,
       closeIconUrl,
